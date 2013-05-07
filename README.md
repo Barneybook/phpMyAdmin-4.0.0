@@ -1,0 +1,1 @@
+phpMyAdmin-4.0.0 in digitalocean
